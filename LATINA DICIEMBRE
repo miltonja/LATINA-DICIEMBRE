@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VIWIX PELICULAS" tvg-name="CL: 13 HD" tvg-logo="http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png" group-title="PELICULAS ⭐",VIWIX TV TERROR * | CL
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png",Viwix TV Terror * | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX PELICULAS" tvg-name="CL: 13 SD" tvg-logo="http://streamgo.vip:8008/images/a67edae422309f893a73707b38e9ca09.png" group-title="PELICULAS ⭐",VIWIX TV ACCION * | CL
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png",Viwix TV Accion * | CL
 https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX PELICULAS" tvg-name="CL: Canal 24 Horas" tvg-logo="http://streamgo.vip:8008/images/95ce89134c00bc95c9c8b016b6a36c92.png" group-title="PELICULAS⭐",VIWIX TV ACCION * | CL
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV-SERIES.png",Viwix TV Series * | CL
 https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX PELICULAS" tvg-name="CL: CDO" tvg-logo="http://streamgo.vip:8008/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="PELICULAS⭐",VIWIX TV SERIES * | CL
-https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX PELICULAS" tvg-name="CL: CDO Premium" tvg-logo="http://streamgo.vip:8008/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="PELICULAS⭐",VIWIX TV ESTRENOS
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png",Viwix TV Estrenos * | CL
 https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX MUSICA" tvg-name="CL: Chilevision HD" tvg-logo="http://streamgo.vip:8008/images/06074edd7f572f827c08c4ef64c49049.png" group-title="MUSICA⭐",VIWIX TV MUSICA
+#EXTINF:-1 group-title="PELICULAS"tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV-MUSIC.png",Viwix TV Music * | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR
 http://181.129.186.36:8089/play/a00r/index.m3u8
